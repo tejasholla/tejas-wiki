@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-06-16T04:51:48.435Z
+date: 2025-06-16T04:58:10.315Z
 tags: portfolio, home
 editor: markdown
 dateCreated: 2025-06-16T04:51:48.435Z
@@ -24,7 +24,7 @@ dateCreated: 2025-06-16T04:51:48.435Z
 
 - 👨‍💻 **Explore My Work:** <a href="https://github.com/tejasholla?tab=repositories" target="_blank"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">```Repositories```</button></a>
 
-- 📝 **Read My Articles:** <a href="https://techfiles.in/" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">```TechFiles Blog```</button></a>
+- 📝 **Office Projects:** <a href="https://wiki.techfiles.in/en/Coaxial-Automatic-Nozzle-Centering" target="_blank"><button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">```Coaxial Automatic Nozzle Centering System```</button></a>
 
 ## 🌐 Socials
 
