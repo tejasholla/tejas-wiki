@@ -2,7 +2,7 @@
 title: arcane
 description: 
 published: true
-date: 2025-06-16T11:58:17.799Z
+date: 2025-06-17T05:59:21.480Z
 tags: server, monitoring
 editor: markdown
 dateCreated: 2025-06-16T11:58:17.799Z
@@ -24,6 +24,6 @@ services:
       - APP_ENV=production
       - PUID=568
       - PGID=568
-      - PUBLIC_SESSION_SECRET=8s2xLw4fzOInjsBWCTCTSJuGLGWNN3kyzuk0dXm5354=
+      - PUBLIC_SESSION_SECRET=id
     restart: unless-stopped
 ```
