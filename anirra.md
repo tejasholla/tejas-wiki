@@ -2,7 +2,7 @@
 title: anirra
 description: 
 published: true
-date: 2025-06-16T11:59:09.133Z
+date: 2025-06-17T05:59:44.963Z
 tags: server
 editor: markdown
 dateCreated: 2025-06-16T11:59:09.133Z
@@ -20,7 +20,7 @@ services:
     command: bash /start.sh
     environment:
       - APP_LEVEL=PROD
-      - NEXTAUTH_URL=https://anime.techfiles.in
+      - NEXTAUTH_URL=url
     volumes:
       - ./data:/project/data
       - ./config.yaml:/project/config.yaml
