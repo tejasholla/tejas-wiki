@@ -2,7 +2,7 @@
 title: Rustdesk
 description: 
 published: true
-date: 2025-06-16T11:56:47.701Z
+date: 2025-06-17T05:58:41.779Z
 tags: server
 editor: markdown
 dateCreated: 2025-06-16T11:56:47.701Z
@@ -26,7 +26,7 @@ services:
       - 21116:21116/udp
       - 21118:21118
     image: rustdesk/rustdesk-server:latest
-    command: hbbs -r rust.techfiles.in:21117
+    command: hbbs -r ipurl:21117
     volumes:
       - ./hbbs:/root
     networks:
